@@ -1,6 +1,6 @@
 # Python Database Project
 
-This is a simple Python Database project with tables Project 
+This is a simple Python Database Project with tables
 
 
 ![alt text](https://pixeljoint.com/files/icons/full/serverroom.gif)
